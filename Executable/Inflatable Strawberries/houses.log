@@ -1,0 +1,78 @@
+﻿Build started 06/11/2013 8:14:05 PM.
+     1>Project "C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\houses.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Release\houses.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\\SFML" /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D SFML_STATIC /D WIN32 /D NDEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release\\" /Fd".\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ZNATM\ZNATM.cpp
+         ZNATM.cpp
+     1>ZNATM\ZNATM.cpp(87): warning C4305: '=' : truncation from 'double' to 'float'
+     1>ZNATM\ZNATM.cpp(94): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(216): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(218): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(222): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(224): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(228): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(230): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(282): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\ZNATM.cpp(289): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>ZNATM\ZNATM.cpp(296): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\ZNATM.cpp(391): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>ZNATM\ZNATM.cpp(428): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(431): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(453): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(458): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\ZNATM.cpp(498): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(526): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>ZNATM\ZNATM.cpp(554): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(560): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(560): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(561): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(561): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(562): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(562): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(624): warning C4018: '<=' : signed/unsigned mismatch
+     1>ZNATM\ZNATM.cpp(717): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(753): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(753): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(753): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(766): warning C4018: '<' : signed/unsigned mismatch
+     1>ZNATM\ZNATM.cpp(787): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(791): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(803): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(809): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(809): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ZNATM\ZNATM.cpp(809): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Release\houses.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\\lib\\" odbc32.lib odbccp32.lib freeglut.lib ilut.lib ilu.lib devil.lib "sfml-audio.lib" "sfml-system.lib" "sfml-system-s.lib" "sfml-audio-s.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Release\houses.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\Release\houses.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Release\houses.lib" /MACHINE:X86 .\Release\AABB.obj
+         .\Release\AABBLinkedList.obj
+         .\Release\AABBNode.obj
+         .\Release\camera.obj
+         .\Release\cameraMap.obj
+         .\Release\collision.obj
+         .\Release\main.obj
+         .\Release\PlainLinkedList.obj
+         .\Release\PlainNode.obj
+         .\Release\ShayWorld.obj
+         .\Release\texturedPolygons.obj
+         .\Release\Loader.obj
+         .\Release\MTL.obj
+         .\Release\Sound.obj
+         .\Release\zAABB.obj
+         .\Release\zCamera.obj
+         .\Release\zInventory.obj
+         .\Release\zKey.obj
+         .\Release\ZNATM.obj
+         .\Release\zObject.obj
+         .\Release\zPlayer.obj
+         .\Release\zZombie.obj
+         houses.vcxproj -> C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\.\Release\houses.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\Release\houses.exe;#1" /manifest .\Release\houses.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file ".\Release\houses.unsuccessfulbuild".
+         Touching ".\Release\houses.lastbuildstate".
+     1>Done Building Project "C:\Users\Seij\stuff\uni\ICT207\W1\shayLearyALL\ICT207-Project\CAMPUS TOUR\houses.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.41
